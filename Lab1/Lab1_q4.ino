@@ -43,12 +43,12 @@ void setup() {
   if (countG > 0) {
     Serial.print("Green: ");
     Serial.println(countG);
-    myPortB |= PORTB4;
+    myPORTB |= PORTB4;
   }
   if (countB > 0) {
     Serial.print("Blue: ");
     Serial.println(countB);
-    myPortB |= PORTB3;
+    myPORTB |= PORTB3;
   }
 
 
