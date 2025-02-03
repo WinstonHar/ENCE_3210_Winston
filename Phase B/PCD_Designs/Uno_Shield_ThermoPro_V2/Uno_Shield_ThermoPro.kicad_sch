@@ -3521,7 +3521,7 @@
 	)
 	(text "*6"
 		(exclude_from_sim no)
-		(at 100.838 72.644 0)
+		(at 101.092 72.644 0)
 		(effects
 			(font
 				(size 1.27 1.27)
